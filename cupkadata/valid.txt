@@ -1,0 +1,11 @@
+cupkadata/validset/frame0041.jpg
+cupkadata/validset/frame0081.jpg
+cupkadata/validset/frame0088.jpg
+cupkadata/validset/frame0124.jpg
+cupkadata/validset/frame0139.jpg
+cupkadata/validset/frame0161.jpg
+cupkadata/validset/frame0225.jpg
+cupkadata/validset/frame0237.jpg
+cupkadata/validset/frame0240.jpg
+cupkadata/validset/frame0242.jpg
+cupkadata/validset/frame0282.jpg
