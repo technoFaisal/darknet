@@ -1,0 +1,6 @@
+classes =1
+train = cupkadata/train.txt
+valid = cupkadata/valid.txt
+names = data/cup-data.names
+backup= duckie_backup
+
